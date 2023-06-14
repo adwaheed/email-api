@@ -5,7 +5,7 @@ const Contact = () => {
 
     const YOUR_API_KEY = process.env.YOUR_API_KEY;
 
-    console.log(YOUR_API_KEY);
+    
 
   const [inputData, setInputData] = useState({
     yourname: "",
